@@ -59,7 +59,8 @@ all	information	and	functionality	is	clear	in	order	to	make	the	user	manual	and	
 employees	can	use	the	software	with	ease.
 
 # flow Charts/Models
-
+[GhostCarRental-Feedback (copied-document).pdf](https://github.com/NamrataAdhvaryu/Cargo-A-Car-Rental-System/files/6158578/GhostCarRental-Feedback.copied-document.pdf)
+[GhostCarRental-Feedback2 (1).pdf](https://github.com/NamrataAdhvaryu/Cargo-A-Car-Rental-System/files/6158580/GhostCarRental-Feedback2.1.pdf)
 
 
 # Functional	Requirements
