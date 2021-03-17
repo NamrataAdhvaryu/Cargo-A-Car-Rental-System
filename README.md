@@ -86,6 +86,14 @@ employees	can	use	the	software	with	ease.
 <img width="398" alt="Screenshot 2021-03-17 at 3 12 08 PM" src="https://user-images.githubusercontent.com/70209068/111532091-b1c17d00-873b-11eb-9cbd-7380650b60a5.png">
 <img width="397" alt="Screenshot 2021-03-17 at 3 12 22 PM" src="https://user-images.githubusercontent.com/70209068/111532094-b25a1380-873b-11eb-8680-55e0ef2ef1a3.png">
 <img width="396" alt="Screenshot 2021-03-17 at 3 12 28 PM" src="https://user-images.githubusercontent.com/70209068/111532116-b8e88b00-873b-11eb-8495-d0ca65279a48.png">
+<img width="384" alt="Screenshot 2021-03-17 at 3 12 41 PM" src="https://user-images.githubusercontent.com/70209068/111532377-f8af7280-873b-11eb-9449-acf62855dcf6.png">
+<img width="387" alt="Screenshot 2021-03-17 at 3 27 42 PM" src="https://user-images.githubusercontent.com/70209068/111532383-fb11cc80-873b-11eb-85d9-44ca36a234ee.png">
+<img width="376" alt="Screenshot 2021-03-17 at 3 28 45 PM" src="https://user-images.githubusercontent.com/70209068/111532387-fcdb9000-873b-11eb-9e78-2d9a64594595.png">
+<img width="385" alt="Screenshot 2021-03-17 at 3 28 51 PM" src="https://user-images.githubusercontent.com/70209068/111532401-ff3dea00-873b-11eb-9b1b-e1df4d0c1e2c.png">
+<img width="382" alt="Screenshot 2021-03-17 at 3 29 03 PM" src="https://user-images.githubusercontent.com/70209068/111532411-01a04400-873c-11eb-8102-bc3fc8cb309a.png">
+<img width="386" alt="Screenshot 2021-03-17 at 3 44 01 PM" src="https://user-images.githubusercontent.com/70209068/111532414-04029e00-873c-11eb-9955-ff57b1cc3a4c.png">
+<img width="390" alt="Screenshot 2021-03-17 at 3 48 27 PM" src="https://user-images.githubusercontent.com/70209068/111532445-0cf36f80-873c-11eb-8278-1741923385ff.png">
+<img width="396" alt="Screenshot 2021-03-17 at 3 13 52 PM" src="https://user-images.githubusercontent.com/70209068/111532477-154baa80-873c-11eb-8c42-5909428821a5.png">
 
 
 
