@@ -80,6 +80,12 @@ employees	can	use	the	software	with	ease.
 ![Screenshot 2021-03-17 at 2 44 38 PM (2)](https://user-images.githubusercontent.com/70209068/111531953-8d65a080-873b-11eb-84d1-9dcdb8f1d3d8.png)
 ![Screenshot 2021-03-17 at 2 44 54 PM (2)](https://user-images.githubusercontent.com/70209068/111531961-90609100-873b-11eb-93c7-fd75682fe2f0.png)
 ![Screenshot 2021-03-17 at 2 45 42 PM (2)](https://user-images.githubusercontent.com/70209068/111531964-922a5480-873b-11eb-8fc7-820b0e7a88e1.png)
+![Screenshot 2021-03-17 at 2 48 51 PM](https://user-images.githubusercontent.com/70209068/111532062-abcb9c00-873b-11eb-839d-e38a3c6acd37.png)
+<img width="395" alt="Screenshot 2021-03-17 at 2 53 22 PM" src="https://user-images.githubusercontent.com/70209068/111532070-ad955f80-873b-11eb-8e03-cdad226eff58.png">
+<img width="394" alt="Screenshot 2021-03-17 at 3 03 34 PM" src="https://user-images.githubusercontent.com/70209068/111532078-af5f2300-873b-11eb-8914-18183e337a20.png">
+<img width="398" alt="Screenshot 2021-03-17 at 3 12 08 PM" src="https://user-images.githubusercontent.com/70209068/111532091-b1c17d00-873b-11eb-9cbd-7380650b60a5.png">
+<img width="397" alt="Screenshot 2021-03-17 at 3 12 22 PM" src="https://user-images.githubusercontent.com/70209068/111532094-b25a1380-873b-11eb-8680-55e0ef2ef1a3.png">
+<img width="396" alt="Screenshot 2021-03-17 at 3 12 28 PM" src="https://user-images.githubusercontent.com/70209068/111532116-b8e88b00-873b-11eb-8495-d0ca65279a48.png">
 
 
 
