@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/70209068/111536480-ac1a6600-8740-11eb-
 
 
 # Functional	Requirements
-Hardware	Requirements:
+* Hardware	Requirements:
 The	software	should	be	ran	on	any	sort	of	desktop	or	laptop	environment,	regardless	of	the	
 operating	system.	The	software	also	has	the	potential	of	running	on	tablets,	but	with	a	more	
 simplified	version.	Essential	input/output	devices	are	keyboards,	mouse,	and	printers;	nothing	
@@ -138,6 +138,7 @@ that	option
 ● Select	length	of	rental	and	planned	drop-off	date
 
 ○ Calendar	options	as	well
+
 ● Store	customer	information	in	the	database
 
 ○ When	registering,	the	customer	will	provide	their	information	in	the	form	- this	
@@ -156,7 +157,9 @@ Company-side	Software	- Primary	Tasks:
 ● Keep	and	display	available	rental	car	records	(for	damages	purposes	and	such)
 
 ○ Searching	and	viewing	much	like	with	customers	
-Company-side	Software	- Secondary	Tasks:
+
+*Company-side	Software	- Secondary	Tasks:
+
 ● Print	invoice
 
 ○ if	print	option	is	selected,	a	printable	version	of	the	page	being	viewed	by	the	
