@@ -72,6 +72,10 @@ employees	can	use	the	software	with	ease.
 ![Screenshot 2021-03-17 at 2 27 33 PM (2)](https://user-images.githubusercontent.com/70209068/111531668-39f35280-873b-11eb-85a7-cf0b0cf5823f.png)
 ![Screenshot 2021-03-17 at 2 34 19 PM (2)](https://user-images.githubusercontent.com/70209068/111531690-41b2f700-873b-11eb-8bcb-d40d80eb5c21.png)
 
+![Screenshot 2021-03-17 at 2 37 21 PM (2)](https://user-images.githubusercontent.com/70209068/111531786-60b18900-873b-11eb-9719-c556540702ea.png)
+![Screenshot 2021-03-17 at 2 38 00 PM (2)](https://user-images.githubusercontent.com/70209068/111531792-627b4c80-873b-11eb-94d3-5676172b044a.png)
+![Screenshot 2021-03-17 at 2 38 19 PM (2)](https://user-images.githubusercontent.com/70209068/111531804-64dda680-873b-11eb-92b9-f16d71fb5c94.png)
+![Screenshot 2021-03-17 at 2 38 30 PM (2)](https://user-images.githubusercontent.com/70209068/111531818-67400080-873b-11eb-9478-a6c3eb9bc3ce.png)
 
 
 
