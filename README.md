@@ -66,6 +66,10 @@ employees	can	use	the	software	with	ease.
 ![0 2](https://user-images.githubusercontent.com/70209068/111518294-50de7880-872c-11eb-9cc0-8c9a81c2a6fd.jpg)
 
 
+# SCREEN SHOTS:
+
+
+
 
 # Functional	Requirements
 Hardware	Requirements:
